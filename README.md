@@ -1,2 +1,2 @@
 # graphite-quick-start
-A test using graphite
+Simple NodeJS server 
